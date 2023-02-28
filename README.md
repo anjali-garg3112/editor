@@ -1,2 +1,0 @@
-# editor
-template_editor
